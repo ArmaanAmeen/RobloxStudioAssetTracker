@@ -43,13 +43,19 @@ Users can add new assets, edit asset information, delete assets, search by name,
 - Not Started
 
 ## How to Run
+1. Ensure that Java JDK is installed on your computer
 
-Open a terminal in the project folder and run:
+2. Save the program as a folder
 
-javac -d out main/*.java
+3. Open a terminal
 
-java -cp out main
+4. Navigate to the folder containing the project folder
 
+5. Compile the program by typing: javac -d out main/*.java
+
+6. Run the program by typing: java -cp out main
+
+7. Program application should be running
 
 ## Use Cases
 
