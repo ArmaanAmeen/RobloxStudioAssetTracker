@@ -74,9 +74,13 @@ Users can add new assets, edit asset information, delete assets, search by name,
 
 
 Name: Greatsword
+
 Type: Weapon
+
 Roblox Asset ID: N/A
+
 Studio Path: ReplicatedStorage.Shared.ToolFolder.Primary.Greatsword
+
 Status: In Progress
 
 
