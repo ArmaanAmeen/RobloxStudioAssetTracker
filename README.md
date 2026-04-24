@@ -47,6 +47,7 @@ Users can add new assets, edit asset information, delete assets, search by name,
 Open a terminal in the project folder and run:
 
 javac -d out main/*.java
+
 java -cp out main
 
 
